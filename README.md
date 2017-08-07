@@ -16,7 +16,7 @@
 * 算法(第四版) ![](http://progressed.io/bar/0)
 ### 工程师修养
 * 程序员修炼之道--从小工到专家 ![](http://progressed.io/bar/0)
-* 代码整洁之道 ![](http://progressed.io/bar/0)
+* 代码整洁之道 ![](http://progressed.io/bar/6)
 * 重构--改善既有代码的设计 ![](http://progressed.io/bar/0)
 * 编程珠玑(第二版) ![](http://progressed.io/bar/0)
 ### 软件工程
