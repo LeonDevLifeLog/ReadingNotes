@@ -15,7 +15,7 @@
 * 算法导论(第二版) ![](http://progressed.io/bar/0)
 * 算法(第四版) ![](http://progressed.io/bar/0)
 ### 工程师修养
-* 程序员修炼之道--从小工到专家 ![](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82%E8%BF%9B%E5%BA%A6-1%2f8-green.svg)  ![](http://progressed.io/bar/12)
+* 程序员修炼之道--从小工到专家 ![](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82%E8%BF%9B%E5%BA%A6-2%2f8-green.svg)  ![](http://progressed.io/bar/25)
 * 代码整洁之道 ![](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82%E8%BF%9B%E5%BA%A6-11%2f17-green.svg)  ![](http://progressed.io/bar/64)
 * 重构--改善既有代码的设计 ![](http://progressed.io/bar/0)
 * 编程珠玑(第二版) ![](http://progressed.io/bar/0)
