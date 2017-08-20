@@ -7,6 +7,8 @@
 * 第一行代码(第二版) ![](http://progressed.io/bar/0)
 * Android源码设计模式解析与实战(第一版) ![](http://progressed.io/bar/0)
 * Android开发艺术探索 ![](http://progressed.io/bar/0)
+* [Kotlin for android developers](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/) ![](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82%E8%BF%9B%E5%BA%A6-4%2f28-green.svg)  ![](http://progressed.io/bar/14)
+* [Kotlin 官方参考文档](https://hltj.gitbooks.io/kotlin-reference-chinese/content/) ![](https://img.shields.io/badge/%E7%AB%A0%E8%8A%82%E8%BF%9B%E5%BA%A6-2%2f11-green.svg) ![](http://progressed.io/bar/18)
 ### 开发语言
 * C++ Primer Plus(第六版) ![](http://progressed.io/bar/0)
 * C Primer Plus(第六版) ![](http://progressed.io/bar/0)
