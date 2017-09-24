@@ -29,3 +29,6 @@
 ### WEB
 * 揭秘Angular2 ![](http://progressed.io/bar/0)
 
+## 欲购清单
+### Android高级进阶
+### Android移动性能实战
